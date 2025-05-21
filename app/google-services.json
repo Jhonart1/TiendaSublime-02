@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857883030599",
+    "project_id": "tienda-sublime",
+    "storage_bucket": "tienda-sublime.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857883030599:android:8e9530d09c682adcb72d62",
+        "android_client_info": {
+          "package_name": "com.sargames.sublimstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAArJw8rvBVpyviDdps8Td-BglQ0NnH4B0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
