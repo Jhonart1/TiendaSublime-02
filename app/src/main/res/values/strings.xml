@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TiendaSublime</string>
+    <string name="app_name2">Sublime</string>
+    <string name="welcome_message">¡Bienvenido a</string>
+    <string name="loading_message">Cargando...</string>
+    <string name="splash_image_description">Imagen de splash</string>
+    <string name="product_image_description">Imagen del producto</string>
+    <string name="title_home">Home</string>
+    <string name="title_products">Productos</string>
+    <string name="title_cart">Carrito</string>
+    <string name="title_profile">Perfil</string>
+    <string name="back_button_description">Botón de retroceso</string>
+    <string name="user_profile_picture_description">Foto de perfil del usuario</string>
+</resources>
